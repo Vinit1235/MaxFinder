@@ -8,7 +8,6 @@ Table of Contents
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 Installation
 To get this project up and running on your local machine:
